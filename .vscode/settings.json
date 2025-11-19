@@ -3,15 +3,15 @@
         "**/.vscode": true,
         "**/.copilotignore": true
     },
-    "editor.wordWrap": "on",
-    "files.autoSave": "afterDelay",
-    "workbench.commandPalette.showAskInChat": false,
     "github.copilot.completions.disable": {
         "*": true    
-    ,
+    },
     "github.copilot.enable": {
         "*": false
     },
     "github.copilot.inlineSuggest.enable": false,
-    "workbench.startupEditor": "readme"
+    "workbench.startupEditor": "readme",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "workbench.commandPalette.showAskInChat": false
 }
