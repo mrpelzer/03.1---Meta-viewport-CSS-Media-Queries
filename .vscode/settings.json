@@ -3,6 +3,12 @@
         "**/.vscode": true,
         "**/.copilotignore": true
     },
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "workbench.commandPalette.showAskInChat": false,
+    "github.copilot.completions.disable": {
+        "*": true    
+    ,
     "github.copilot.enable": {
         "*": false
     },
